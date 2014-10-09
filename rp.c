@@ -19,7 +19,7 @@ typedef struct edge{
   struct edge *next;
 }*Edge;
 
-//Git skit
+
 
 char reformatLine(char line[128]){
   for(int i=0;i<=128;i++){
