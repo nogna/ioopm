@@ -1,0 +1,8 @@
+10, Biomedicinskt centrum, Akademiska sodra, 3
+10, Akademiska sodra, Centralstationen, 5
+10, Centralstationen, Vaksala torg, 4
+10, Vaksala torg, Granby Centrum, 6
+10, Biomedicinskt centrum, Akademiska sodra, 3
+10, Akademiska sodra, Centralstationen, 5
+10, Centralstationen, Vaksala torg, 4
+10, Vaksala torg, Granby Centrum, 6
